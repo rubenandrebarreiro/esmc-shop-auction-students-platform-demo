@@ -15,6 +15,7 @@ mysql> source C:/wamp64/scripts/esmc-shop/script_sql.sql;
 Query OK, 1 row affected (0.01 sec)
 
 Database changed
+
 Query OK, 0 rows affected (0.01 sec)
 
 Query OK, 0 rows affected (0.01 sec)
