@@ -2,7 +2,7 @@
 
 #### Steps for installation of the database and server:
 
-1) You must use the following command:
+1) You must use the following command, to run the **_MySQL_** _script_:
 ````
 mysql> source the/path/to/your/script;
 ````
