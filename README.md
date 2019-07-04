@@ -44,7 +44,7 @@
 
 ## Description
 
-> A **_2nd year's lab work (project)_** of the **_Professional Course of Technician of Programming and Management of Computer Systems_** made in [**_High School of Monte de Caparica_**](https://www.aecaparica.pt/escolas/escolas/escola-secundaria-do-monte-da-caparica/), in the subject of **_Communication Networks_**. This project was built using [**_HTML_**](https://www.w3schools.com/html/) and [**_Notepad++ (Notepad Plus Plus)_**](https://notepad-plus-plus.org/). The scenario of the project was the development of a **_Website_** dedicated to _simple demo_ of the _squad of the soccer club_ [**_F.C. Barcelona_**](https://www.fcbarcelona.com/en/) in the _season 2010/2011_. This _demo_ also address _simple and useful information about its story and titles won until the season 2010/2011_.
+> The final project or **_final project (or, Prova de Aptidão Profissional (P.A.P.), in portuguese)_** of the **_Professional Course of Technician of Programming and Management of Computer Systems_** made in [**_High School of Monte de Caparica_**](https://www.aecaparica.pt/escolas/escolas/escola-secundaria-do-monte-da-caparica/). This project was built using [**_HTML_**](https://www.w3schools.com/html/), [**_CSS (Cascade Style Sheets)_**](https://www.w3schools.com/css/), [**_JavaScript_**](https://www.javascript.com/), [**_PHP (Hypertext Preprocessor)_**](https://php.net/), [**_MySQL_**](https://www.mysql.com/), [**_Notepad++_**](https://notepad-plus-plus.org/) and [**_WampServer_**](http://www.wampserver.com/). The scenario of the project was the development of a **_auction platform for students_**, with a complete _full-stack_ component (_front-end_ and _back-end_ components). This **_Website/Platform_** allows students to _sign up_ or _login_, to register the products which they want to sell ou make bids or buy other products in auction which they are interested to. The _front-end_ component was built in [**_HTML_**](https://www.w3schools.com/html/), [**_CSS (Cascade Style Sheets)_**](https://www.w3schools.com/css/) and [**_JavaScript_**](https://www.javascript.com/). The _back-end_ component was built using [**_MySQL_**](https://www.mysql.com/) and [**_WampServer_**](http://www.wampserver.com/). And was also used [**_PHP (Hypertext Preprocessor)_**](https://php.net/) for binding the two components, as global system.  
 
 ***
 
@@ -93,15 +93,15 @@ git clone git@github.com:rubenandrebarreiro/esmc-shop-auction-students-platform-
 ```
 
 #### Steps for installation of the _Database_ and _localhost Server_:
-##### 1) Install [**_Wamp Server_**]();
+##### 1) Install [**_WampServer_**](http://www.wampserver.com/);
 
-##### 2) After install [**_Wamp Server_**](), do the following steps:
+##### 2) After install [**_WampServer_**](http://www.wampserver.com/), do the following steps:
 
-> a) Go to the _Notification Icons Area_ in your personal _taskbar_, click on the [**_Wamp Server_**]() icon and then, click on _Start All Services_;
+> a) Go to the _Notification Icons Area_ in your personal _taskbar_, click on the [**_WampServer_**](http://www.wampserver.com/) icon and then, click on _Start All Services_;
 
-> b) Go to the _Notification Icons Area_ in your personal _taskbar_, click on the [**_Wamp Server_**]() icon, navigate to _MySQL_ menu and then, click on _MySQL Console_;
+> b) Go to the _Notification Icons Area_ in your personal _taskbar_, click on the [**_WampServer_**](http://www.wampserver.com/) icon, navigate to [**_MySQL_**](https://www.mysql.com/) menu and then, click on **_MySQL Console_**;
 
-> c) Use the following command, to run the **_MySQL_** _script_:
+> c) Use the following command, to run the [**_MySQL_**](https://www.mysql.com/) _script_:
 ````
 mysql> source the/path/to/your/script/script_sql.sql;
 ````
@@ -154,7 +154,7 @@ Query OK, 1 row affected (0.00 sec)
 Query OK, 1 row affected (0.00 sec)
 ````
 
-> d) Go to the _Notification Icons Area_ in your personal _taskbar_, click on the [**_Wamp Server_**]() icon and then, click on _www directory_ to open the folder of the projects/directories contained in the _localhost_;
+> d) Go to the _Notification Icons Area_ in your personal _taskbar_, click on the [**_WampServer_**](http://www.wampserver.com/) icon and then, click on _www directory_ to open the folder of the projects/directories contained in the _localhost_;
 
 > e) Copy the folder _esmc-shop_ contained in the folder _application/www_ to the folder opened in _d)_;
 
