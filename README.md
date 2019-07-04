@@ -60,6 +60,16 @@
 
 ***
 
+![https://raw.githubusercontent.com/rubenandrebarreiro/esmc-shop-auction-students-platform-demo/master/imgs/JPGs/screenshot-3.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/esmc-shop-auction-students-platform-demo/master/imgs/JPGs/screenshot-3.jpg)
+######  ESMC Shop - Auction Platform for Students (Demo) - Screenshot #3
+
+***
+
+![https://raw.githubusercontent.com/rubenandrebarreiro/esmc-shop-auction-students-platform-demo/master/imgs/JPGs/screenshot-4.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/esmc-shop-auction-students-platform-demo/master/imgs/JPGs/screenshot-4.jpg)
+######  ESMC Shop - Auction Platform for Students (Demo) - Screenshot #4
+
+***
+
 ## Getting Started
 
 ### Prerequisites
