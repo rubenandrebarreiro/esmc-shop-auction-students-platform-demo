@@ -66,4 +66,4 @@ Query OK, 1 row affected (0.00 sec)
 
 > e) Copy the folder _esmc-shop_ contained in the folder _application/www_ to the folder opened in _d)_;
 
-> f) Go to your _Web Browser_, type the '_http://localhost/esmc-shop/_' in the _URL address_ bar and enjoy it;
+> f) Go to your _Web Browser_, type the '_http://localhost/esmc-shop/_' in the _URL address bar_ and enjoy it;
