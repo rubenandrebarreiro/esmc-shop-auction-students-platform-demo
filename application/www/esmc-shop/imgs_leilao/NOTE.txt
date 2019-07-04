@@ -1,0 +1,5 @@
+NOTA (PT):
+- As imagens dos produtos registados iram ser guardadas nesta pasta!
+
+NOTE (ENG):
+- The images of the registered products will be kept in this folder!
