@@ -1,0 +1,378 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: underline;
+	color: #9C61CC;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+body {
+	font-size: 11pt;
+	line-height: 1.75em;
+	background: #171816 url(images/bg.jpg) repeat-x top left;
+	color: #C5C5C5;
+}
+
+body,input {
+	font-family: "Coda Caption", sans-serif;
+}
+
+br.clear {
+	clear: both;
+}
+
+form {
+	margin: 0;
+	padding: 0;
+}
+
+h1,h2,h3,h4 {
+	text-transform: lowercase;
+}
+
+h2 {
+	font-size: 2.25em;
+}
+
+h2,h3,h4 {
+	margin-bottom: 1em;
+	font-family: Jura, sans-serif;
+	color: #FFF;
+}
+
+h3 {
+	font-size: 1.75em;
+}
+
+h4 {
+	font-size: 1.5em;
+}
+
+img.left {
+	float: left;
+	margin: 5px 20px 20px 0;
+}
+
+img.top {
+	margin: 5px 0 20px 0;
+}
+
+label.login {
+	display: block;
+	margin: 0 0 6px 0;
+}
+
+label.signup {
+	display: block;
+	margin: 0 0 6px 0;
+}
+
+#sugestoes
+{
+	font-size:10pt;
+	color:red;
+	margin-bottom:6px;
+	margin-top:6px;
+}
+
+p {
+	margin-bottom: 1.5em;
+}
+
+ul {
+	margin-bottom: 1.5em;
+}
+
+ul h4 {
+	margin-bottom: 0.35em;
+}
+
+.form {
+	margin: 0 0 40px 0;
+}
+
+.inputBox_search {
+	padding: 6px;
+	width: 355px;
+}
+
+.inputButton_search {
+	margin-top: -3px;
+	padding: 6px;
+	float: right;
+}
+
+.inputBox, .inputTextArea {
+	padding: 6px;
+	width: 95%;
+}
+
+.inputBox2 {
+	padding: 6px;
+	width: 46%;
+}
+
+.inputBox3 {
+	padding: 6px;
+	width: 10%;
+}
+
+.inputBox5 {
+	padding: 6px;
+	width: 8%;
+}
+
+.inputBox6 {
+	padding: 6px;
+	width: 6%;
+}
+
+.inputBox4 {
+	padding: 6px;
+	width: 16%;
+}
+
+.file_input_textbox
+{
+	padding: 6px;
+	width: 46%;
+}
+
+.file_input_button
+{
+	padding: 6px;
+}
+
+.file_input_div
+{
+  position: relative; 
+  width: 120px; 
+  height: 40px; 
+  overflow: hidden;
+}
+
+.input_box_hidden
+{
+	position: absolute;
+	opacity: 0;
+	filter: alpha(opacity=0); 
+	-ms-filter: "alpha(opacity=0)"; 
+	-khtml-opacity: 0; 
+	-moz-opacity: 0;
+}
+
+.file_input_hidden
+{
+  font-size: 40px; 
+  position: absolute;
+  right: 0px;
+  opacity: 0;
+  filter: alpha(opacity=0); 
+	-ms-filter: "alpha(opacity=0)"; 
+	-khtml-opacity: 0; 
+	-moz-opacity: 0;
+}
+
+.inputButton {
+	padding: 6px;
+	float: right;
+}
+
+.inputButton2 {
+	padding: 6px;
+	float: left;
+}
+
+.inputButton3 {
+	padding: 6px;
+}
+
+textarea
+{
+	resize: none;
+}
+
+#banner {
+	position: relative;
+	padding: 0;
+	height: 305px;
+	width: 1180px;
+	margin: 40px 0 40px 0;
+}
+
+#box1 {
+	width: 815px;
+	overflow: hidden;
+	margin: 0 0 35px 0;
+}
+
+#box2 {
+	width: 390px;
+	overflow: hidden;
+	float: left;
+}
+
+#box3 {
+	width: 390px;
+	overflow: hidden;
+	margin: 0 0 0 425px;
+}
+
+#box4 {
+	width: 780px;
+	overflow: hidden;
+	float: left;
+}
+
+#content {
+	width: 815px;
+	float: left;
+	padding: 0;
+}
+
+#copyright {
+	margin: 0 0 50px 0;
+	padding: 70px 0 110px 0;
+	text-align: center;
+}
+
+#copyright a {
+	color: #C5C5C5;
+}
+
+#header {
+	position: relative;
+	padding: 40px;
+	height: 130px;
+	width: 1100px;
+}
+
+#logo {
+	text-align: center;
+	position: absolute;
+	bottom: 20px;
+	width: 1100px;
+	height: 100px;
+	line-height: 100px;
+}
+
+#logo a {
+	text-decoration: none;
+	color: #FFF;
+}
+
+#logo h1 {
+	font-size: 5.25em;
+	font-family: Jura, sans-serif;
+	letter-spacing: -4px;
+}
+
+#main {
+	position: relative;
+	padding: 40px;
+	width: 1100px;
+	margin: 0 0 0 0;
+	color: #A6A6A6;
+}
+
+#main .sectionList {
+	list-style: none;
+	padding-left: 0;
+}
+
+#main .sectionList li {
+	clear: both;
+	padding: 25px 0 25px 0;
+}
+
+#main a {
+	color: #E6E6E6;
+}
+
+#main h2, #main h3, #main h4 {
+	color: #F2F2F2;
+}
+
+#main strong {
+	color: #BFBFBF;
+}
+
+#main ul {
+	list-style: none;
+}
+
+#main ul li {
+	padding: 15px 0 15px 0;
+	border-top: solid 1px #2E2E2E;
+}
+
+#main ul li.first {
+	padding-top: 0;
+	border-top: 0;
+}
+
+#nav {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 1180px;
+	height: 57px;
+	line-height: 57px;
+	font-family: Jura, sans-serif;
+}
+
+#nav a {
+	text-decoration: none;
+	text-transform: lowercase;
+	font-size: 1.75em;
+	color: #E6E6E6;
+}
+
+#nav ul {
+	list-style: none;
+	width: 1180px;
+	text-align: center;
+}
+
+#nav ul li {
+	display: inline;
+	text-align: center;
+	padding: 0 20px 0 20px;
+}
+
+#outer {
+	position: relative;
+	width: 1180px;
+	margin: 90px auto 0 auto;
+	background: #000;
+}
+
+#search input.button {
+	margin-left: 1em;
+	border: 0;
+	color: #FFF;
+	background: #9C61CC;
+	padding: 5px;
+	font-family: Jura, sans-serif;
+}
+
+#search input.text {
+	border: solid 1px #2E2E2E;
+	padding: 10px;
+}
+
+#sidebar {
+	width: 250px;
+	margin: 0 0 0 850px;
+	padding: 0;
+}
+
+.blogpost h2 {
+	margin: 0 0 10px 0;
+}
