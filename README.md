@@ -15,7 +15,7 @@ mysql> source the/path/to/your/script;
 ````
 mysql> source C:/wamp64/scripts/esmc-shop/script_sql.sql;
 ````
-> The output was the following:
+> ii) The output was the following:
 ````
 Query OK, 5 rows affected (0.07 sec)
 
