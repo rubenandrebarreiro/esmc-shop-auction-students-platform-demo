@@ -2,11 +2,26 @@
 
 #### Steps for installation of the database and server:
 
-1) You must use the following command
+1) You must use the following command:
 ````
 mysql> source the/path/to/your/script;
 ````
-1.1) Per example, for me, the command was the follwing:
+> 1.1) Per example, for me, the command was the following:
 ````
 mysql> source C:/wamp64/scripts/esmc-shop/script_sql.sql;
+````
+> The output was the following:
+````
+Query OK, 1 row affected (0.01 sec)
+
+Database changed
+Query OK, 0 rows affected (0.01 sec)
+
+Query OK, 0 rows affected (0.01 sec)
+
+Query OK, 0 rows affected (0.00 sec)
+
+Query OK, 0 rows affected (0.01 sec)
+
+Query OK, 0 rows affected (0.01 sec)
 ````
