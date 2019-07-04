@@ -60,7 +60,6 @@
 
 ***
 
-
 ## Getting Started
 
 ### Prerequisites
@@ -164,8 +163,12 @@ Query OK, 1 row affected (0.00 sec)
 
 ## Built with
 * [**_HTML_**](https://www.w3schools.com/html/)
-* [**_Notepad++ (Notepad Plus Plus)_**](https://notepad-plus-plus.org/)
-
+* [**_CSS (Cascade Style Sheets)_**](https://www.w3schools.com/css/) 
+* [**_JavaScript_**](https://www.javascript.com/) 
+* [**_PHP (Hypertext Preprocessor)_**](https://php.net/) 
+* [**_MySQL_**](https://www.mysql.com/)
+* [**_Notepad++_**](https://notepad-plus-plus.org/)
+* [**_WampServer_**](http://www.wampserver.com/)
 
 ## Contributors
 
